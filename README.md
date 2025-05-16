@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning: Advanced full-stack development techniques and ethical hacking tools.
 - 🔭 I’m working on: Building innovative web applications and hacking tools.
-- 💬 Ask me about: Full-stack development, Linux, ethical hacking, and open-source contributions.
+- 💬 Ask me about: Full-stack development, Linux, ethical hacking, and open-source contributions.and still in need help to learn 
 - 📫 How to reach me: See the social links below! 🌐
 - ⚡ Fun fact: I'm a passionate Linux user and lover.
 
