@@ -28,9 +28,5 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enockdeghost&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Enockdeghost's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockdeghost&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
-Thanks for visiting my profile!
