@@ -23,7 +23,3 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🚀 Develop full-stack web applications using modern technologies.
 - 🛡️ Create ethical hacking tools to test and secure systems.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enockdeghost&layout=compact&theme=radical" alt="Top Languages" />
-</p>
