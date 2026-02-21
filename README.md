@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Enockdeghost! [![committers.top badge](https://user-badge.committers.top/tanzania/enockdeghost.svg)]
+# Hi there 👋, I'm Enock stephano 
 
 
 Welcome to my GitHub profile! Here's a bit about me:
